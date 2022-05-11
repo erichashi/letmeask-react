@@ -1,0 +1,2 @@
+hooks sao tipo components mas nao visuais
+tipo utils, helper functions
