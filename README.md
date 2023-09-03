@@ -22,7 +22,7 @@ Check the the [deployed wesbite](https://letmeask-35ba9.web.app/)
 - Like Questions: Users can express their interest or agreement with specific questions by liking them, providing a way to prioritize questions for discussion.
 - Answer Questions: If a user has created the room, they have the capability to answer questions, providing valuable insights and responses.
 
-![demo img](readme_imgs/demo1.jpeg)
+![demo img](readme_imgs/demo2.jpeg)
 
 - User Authentication: Firebase handles user authentication, ensuring secure access to rooms and questions.
 - Real-time Database: Firebase's real-time database facilitates the dynamic updating of questions, likes, and responses as users interact with the web app.
